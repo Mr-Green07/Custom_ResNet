@@ -7,3 +7,12 @@ cifar-10-python/cifar-10-batches-py/data_batch_3
 cifar-10-python/cifar-10-batches-py/data_batch_5
 cifar-10-python/cifar-10-batches-py/readme.html
 cifar-10-python/cifar-10-batches-py/test_batch
+cifar10_data/cifar-10-python.tar.gz
+cifar10_data/cifar-10-batches-py/data_batch_1
+cifar10_data/cifar-10-batches-py/data_batch_3
+cifar10_data/cifar-10-batches-py/data_batch_5
+cifar10_data/cifar-10-batches-py/data_batch_4
+cifar10_data/cifar-10-batches-py/test_batch
+cifar10_data/cifar-10-batches-py/data_batch_2
+cifar10_data/cifar-10-batches-py/batches.meta
+cifar10_data/cifar-10-batches-py/readme.html
